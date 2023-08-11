@@ -1,5 +1,4 @@
-{"homepage": "http://Kesavan-Raman.github.io/Resume-Builder",
-  "name": "my-resume-builder",
+{ "name": "my-resume-builder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
